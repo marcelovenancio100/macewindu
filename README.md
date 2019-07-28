@@ -1,3 +1,1 @@
-# macewindu
-
-Spring Boot Project With Spring Security
+# Spring Boot Project With Spring Security
