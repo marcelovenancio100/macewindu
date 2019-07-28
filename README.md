@@ -1,1 +1,1 @@
-# Spring Boot Project With Spring Security
+# Project Starter with Spring Security
